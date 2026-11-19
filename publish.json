@@ -1,0 +1,17 @@
+{
+  "description": "11 skill Hermes untuk reverse-engineering Shopee: signer antifraud, alur IVS, captcha solver, OTP, VA, dan orkestrasi pesanan digital.",
+  "topics": [
+    "shopee",
+    "reverse-engineering",
+    "hermes-skills",
+    "captcha-solver",
+    "automation",
+    "python",
+    "api-reverse-engineering",
+    "ivs",
+    "playwright",
+    "antifraud"
+  ],
+  "homepage": "",
+  "has_issues": true
+}

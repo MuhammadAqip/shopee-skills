@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+*.tgz
+.env
+accounts*.json
+cookies*.txt
+ck_*.txt
+bot_key.txt

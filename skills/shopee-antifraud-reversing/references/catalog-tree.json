@@ -1,0 +1,2721 @@
+{
+ "top": 26,
+ "flat": [
+  {
+   "catid": 11044258,
+   "name": "Elektronik",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044352,
+   "name": "Konsol Game",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044362,
+   "name": "Aksesoris Konsol",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044363,
+   "name": "Alat Casting",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044259,
+   "name": "Foot Bath & Spa",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044260,
+   "name": "Mesin Jahit & Aksesoris",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044261,
+   "name": "Setrika & Mesin Uap",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044262,
+   "name": "Purifier & Humidifier",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044266,
+   "name": "Penyedot Debu & Peralatan Perawatan Lantai",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044271,
+   "name": "Telepon",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044276,
+   "name": "Mesin Cuci & Pengering",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044280,
+   "name": "Water Heater",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044281,
+   "name": "Pendingin Ruangan",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044286,
+   "name": "Pengering Sepatu",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044287,
+   "name": "Penghangat Ruangan",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044288,
+   "name": "TV & Aksesoris",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044294,
+   "name": "Perangkat Dapur",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044550,
+   "name": "Lampu",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044567,
+   "name": "Kamera Keamanan",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044573,
+   "name": "Video Game",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044319,
+   "name": "Kelistrikan",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044328,
+   "name": "Baterai",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044335,
+   "name": "Remot Kontrol",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044337,
+   "name": "Walkie Talkie",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044338,
+   "name": "Media Player",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044344,
+   "name": "Perangkat Audio & Speaker",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044336,
+   "name": "Elektronik Lainnya",
+   "parent": 11044258,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043451,
+   "name": "Makanan & Minuman",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043453,
+   "name": "Makanan Ringan",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043467,
+   "name": "Bahan Pokok",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043496,
+   "name": "Menu Sarapan",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043502,
+   "name": "Minuman",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043517,
+   "name": "Susu & Olahan",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043529,
+   "name": "Makanan Segar & Beku",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043544,
+   "name": "Roti & Kue",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043555,
+   "name": "Set Hadiah & Hampers",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043557,
+   "name": "Makanan Kaleng",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043564,
+   "name": "Makanan Instan",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043556,
+   "name": "Makanan & Minuman Lainnya",
+   "parent": 11043451,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044364,
+   "name": "Komputer & Aksesoris",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044365,
+   "name": "Desktop",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044371,
+   "name": "Monitor",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044372,
+   "name": "Komponen Desktop & Laptop",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044386,
+   "name": "Penyimpanan Data",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044394,
+   "name": "Komponen Network",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044405,
+   "name": "Software",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044410,
+   "name": "Peralatan Kantor",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044416,
+   "name": "Printer & Scanner",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044422,
+   "name": "Aksesoris Desktop & Laptop",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044434,
+   "name": "Keyboard & Mouse",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044440,
+   "name": "Laptop",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044445,
+   "name": "Gaming",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044451,
+   "name": "Audio Computer",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044584,
+   "name": "Proyektor & Aksesoris",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044457,
+   "name": "Komputer & Aksesoris Lainnya",
+   "parent": 11044364,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043145,
+   "name": "Perawatan & Kecantikan",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043146,
+   "name": "Perawatan Tubuh",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043159,
+   "name": "Perawatan Tangan",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043164,
+   "name": "Perawatan Kaki",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043169,
+   "name": "Perawatan Kuku",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043178,
+   "name": "Perawatan Rambut",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043185,
+   "name": "Perawatan Pria",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043198,
+   "name": "Parfum & Wewangian",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043202,
+   "name": "Kosmetik Wajah",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043212,
+   "name": "Kosmetik Mata",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043219,
+   "name": "Kosmetik Bibir",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043226,
+   "name": "Pembersih Make Up",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043227,
+   "name": "Aksesoris Make Up",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043240,
+   "name": "Alat Perawatan Wajah",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043245,
+   "name": "Alat Pelangsing Tubuh",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043246,
+   "name": "Alat Penghilang Bulu Rambut",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043247,
+   "name": "Alat Rambut",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043253,
+   "name": "Perawatan Wajah",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043267,
+   "name": "Treatment Mata",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043272,
+   "name": "Treatment Bibir",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043277,
+   "name": "Paket & Set Kecantikan",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043278,
+   "name": "Kecantikan Lainnya",
+   "parent": 11043145,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044458,
+   "name": "Handphone & Aksesoris",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044459,
+   "name": "Kartu Perdana",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044460,
+   "name": "Tablet",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044476,
+   "name": "Handphone",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044504,
+   "name": "Perangkat Wearable",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044507,
+   "name": "Perangkat VR",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044508,
+   "name": "Aksesoris Selfie",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044514,
+   "name": "Handphone & Tablet Aksesoris",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044523,
+   "name": "Kartu Memori",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044527,
+   "name": "Kabel, Charger, & Konverter",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044534,
+   "name": "Powerbank & Baterai",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044539,
+   "name": "Casing & Skin",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044544,
+   "name": "Audio Handphone",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044549,
+   "name": "Handphone & Aksesoris Lainnya",
+   "parent": 11044458,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043778,
+   "name": "Perlengkapan Rumah",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043849,
+   "name": "Renovasi Rumah",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043863,
+   "name": "Perkakas",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043875,
+   "name": "Alat Pemeliharaan Rumah",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043886,
+   "name": "Kebersihan & Binatu",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043895,
+   "name": "Peralatan Dapur",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043909,
+   "name": "Peralatan Masak",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043922,
+   "name": "Peralatan Makan",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043934,
+   "name": "Alat Pengaman",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043939,
+   "name": "Organizer Rumah",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043950,
+   "name": "Perlengkapan Keagamaan",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043952,
+   "name": "Payung",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043779,
+   "name": "Pengharum Ruangan & Aromaterapi",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043783,
+   "name": "Kamar Mandi",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043797,
+   "name": "Kamar Tidur",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043807,
+   "name": "Dekorasi",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043820,
+   "name": "Furniture",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043838,
+   "name": "Taman",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043951,
+   "name": "Perlengkapan Rumah Lainnya",
+   "parent": 11043778,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042849,
+   "name": "Pakaian Pria",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042850,
+   "name": "Denim",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042855,
+   "name": "Hoodie & Sweatshirt",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042859,
+   "name": "Sweater & Cardigan",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042860,
+   "name": "Jaket, Mantel, & Rompi",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042865,
+   "name": "Jas Formal",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042871,
+   "name": "Celana Panjang",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042876,
+   "name": "Celana Pendek",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042877,
+   "name": "Atasan",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042883,
+   "name": "Batik",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042885,
+   "name": "Pakaian Dalam",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042890,
+   "name": "Pakaian Tidur",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042891,
+   "name": "Set Pakaian Pria",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042892,
+   "name": "Pakaian Tradisional",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042897,
+   "name": "Kostum",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042898,
+   "name": "Pakaian Kerja",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042899,
+   "name": "Pakaian Pria Lainnya",
+   "parent": 11042849,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042745,
+   "name": "Pakaian Wanita",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042820,
+   "name": "Pakaian Tradisional",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042826,
+   "name": "Kostum",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042828,
+   "name": "Kain",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042840,
+   "name": "Batik",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043127,
+   "name": "Denim",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042746,
+   "name": "Atasan",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042754,
+   "name": "Celana Panjang & Legging",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042762,
+   "name": "Celana Pendek",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042766,
+   "name": "Rok",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042770,
+   "name": "Dress",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042774,
+   "name": "Wedding Dress",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042775,
+   "name": "Jumpsuit, Playsuit, & Overall",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042780,
+   "name": "Jaket, Mantel, & Rompi",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042787,
+   "name": "Sweater & Cardigan",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042788,
+   "name": "Hoodie & Sweatshirt",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042792,
+   "name": "Set",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042797,
+   "name": "Pakaian Dalam",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042807,
+   "name": "Pakaian Tidur & Piyama",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042812,
+   "name": "Baju Hamil",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042827,
+   "name": "Pakaian Wanita Lainnya",
+   "parent": 11042745,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042985,
+   "name": "Sepatu Pria",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042991,
+   "name": "Sneakers",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043009,
+   "name": "Kaos Kaki",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042996,
+   "name": "Sandal",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043002,
+   "name": "Aksesoris & Perawatan Sepatu",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042986,
+   "name": "Boot",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043008,
+   "name": "Tali Sepatu",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042992,
+   "name": "Slip-On & Mules",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043010,
+   "name": "Sepatu Pria Lainnya",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042993,
+   "name": "Sepatu Formal",
+   "parent": 11042985,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042684,
+   "name": "Fashion Muslim",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042685,
+   "name": "Hijab",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042693,
+   "name": "Aksesoris Muslim",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042697,
+   "name": "Atasan Muslim Wanita",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042702,
+   "name": "Dress Muslim",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042712,
+   "name": "Bawahan Muslim Wanita",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042718,
+   "name": "Mukena & Perlengkapan Sholat",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042725,
+   "name": "Pakaian Muslim Pria",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042732,
+   "name": "Pakaian Muslim Anak",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042737,
+   "name": "Outerwear",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042743,
+   "name": "Set",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042744,
+   "name": "Fashion Muslim Lainnya",
+   "parent": 11042684,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043011,
+   "name": "Tas Pria",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043022,
+   "name": "Tas Selempang & Bahu Pria",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043023,
+   "name": "Dompet",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043012,
+   "name": "Ransel Pria",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043021,
+   "name": "Tas Pinggang Pria",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043013,
+   "name": "Tas Laptop",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043020,
+   "name": "Clutch",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043018,
+   "name": "Tote Bag",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043019,
+   "name": "Tas Kerja",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043030,
+   "name": "Tas Pria Lainnya",
+   "parent": 11043011,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043031,
+   "name": "Fashion Bayi & Anak",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043032,
+   "name": "Pakaian Bayi",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043043,
+   "name": "Sepatu Bayi",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043077,
+   "name": "Pakaian Anak Laki-Laki",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043092,
+   "name": "Pakaian Anak Perempuan",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043110,
+   "name": "Sepatu Anak Laki-Laki",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043118,
+   "name": "Sepatu Anak Perempuan",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043044,
+   "name": "Tas Anak Laki-Laki",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043050,
+   "name": "Tas Anak Perempuan",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043056,
+   "name": "Aksesoris Bayi & Anak",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043067,
+   "name": "Perlengkapan Hujan",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043071,
+   "name": "Perhiasan",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043126,
+   "name": "Fashion Bayi & Anak Lainnya",
+   "parent": 11043031,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042921,
+   "name": "Aksesoris Fashion",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042922,
+   "name": "Cincin",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042923,
+   "name": "Anting",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042924,
+   "name": "Syal & Selendang",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042925,
+   "name": "Sarung Tangan",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042930,
+   "name": "Aksesoris Rambut",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042937,
+   "name": "Gelang Tangan & Bangle",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042938,
+   "name": "Gelang Kaki",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042939,
+   "name": "Topi",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042947,
+   "name": "Kalung",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042952,
+   "name": "Kacamata & Aksesoris",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11053196,
+   "name": "Lensa Kontak & Aksesoris",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042957,
+   "name": "Logam Mulia",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042963,
+   "name": "Ikat Pinggang",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042967,
+   "name": "Dasi",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042968,
+   "name": "Aksesoris Tambahan",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042976,
+   "name": "Set & Paket Aksesoris",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042978,
+   "name": "Perhiasan Berharga",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042977,
+   "name": "Aksesoris Fashion Lainnya",
+   "parent": 11042921,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043350,
+   "name": "Ibu & Bayi",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043351,
+   "name": "Perlengkapan Travelling Bayi",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043360,
+   "name": "Peralatan & Aksesoris Makan",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043369,
+   "name": "Perlengkapan Botol Susu",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043375,
+   "name": "Perlengkapan Menyusui",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043381,
+   "name": "Perlengkapan Ibu Hamil",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043385,
+   "name": "Kesehatan Kehamilan",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043390,
+   "name": "Kesehatan & Perawatan Bayi",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043404,
+   "name": "Perlengkapan Mandi",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043411,
+   "name": "Kamar Bayi",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043420,
+   "name": "Keamanan Bayi",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043428,
+   "name": "Susu Formula & Makanan Bayi",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043433,
+   "name": "Popok & Pispot",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043439,
+   "name": "Mainan",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043449,
+   "name": "Set & Paket Hadiah",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043450,
+   "name": "Ibu & Bayi Lainnya",
+   "parent": 11043350,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042900,
+   "name": "Jam Tangan",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042901,
+   "name": "Jam Tangan Wanita",
+   "parent": 11042900,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042905,
+   "name": "Jam Tangan Pria",
+   "parent": 11042900,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042909,
+   "name": "Jam Tangan Couple",
+   "parent": 11042900,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042913,
+   "name": "Aksesoris Jam Tangan",
+   "parent": 11042900,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042920,
+   "name": "Jam Tangan Lainnya",
+   "parent": 11042900,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042604,
+   "name": "Sepatu Wanita",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042605,
+   "name": "Boots",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042609,
+   "name": "Sneakers",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042610,
+   "name": "Sepatu Flat",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042615,
+   "name": "Loafers & Boat Shoes",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042616,
+   "name": "Sepatu Oxford",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042617,
+   "name": "Slip Ons, Mary Janes & Mules",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042618,
+   "name": "Heels",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042623,
+   "name": "Wedges",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042624,
+   "name": "Sandal",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042630,
+   "name": "Aksesoris & Perawatan Sepatu",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042637,
+   "name": "Kaus Kaki & Stocking",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042641,
+   "name": "Sepatu Wanita Lainnya",
+   "parent": 11042604,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043279,
+   "name": "Kesehatan",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043331,
+   "name": "Kewanitaan",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043339,
+   "name": "Kesehatan Seksual",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043346,
+   "name": "Perawatan Mata",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043280,
+   "name": "Suplemen Makanan & Vitamin",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043288,
+   "name": "Alat Kesehatan",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043296,
+   "name": "Alat Tes & Monitor",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043302,
+   "name": "P3K",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043308,
+   "name": "Alat Bantu Cedera & Disabilitas",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043314,
+   "name": "Obat Nyamuk",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043315,
+   "name": "Popok Dewasa",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043316,
+   "name": "Hand Sanitizer",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043317,
+   "name": "Minyak Esensial",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043318,
+   "name": "Perawatan Hidung & Pernafasan",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043319,
+   "name": "Perawatan Telinga",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043320,
+   "name": "Perawatan Mulut",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043345,
+   "name": "Kesehatan Lainnya",
+   "parent": 11043279,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042642,
+   "name": "Tas Wanita",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11042643,
+   "name": "Ransel Wanita",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042644,
+   "name": "Tas Serut",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042645,
+   "name": "Tas Laptop",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042650,
+   "name": "Clutch",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042651,
+   "name": "Tas Pinggang Wanita",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042652,
+   "name": "Tote Bag",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042655,
+   "name": "Top Handle Bag",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042656,
+   "name": "Tas Selempang & Bahu Wanita",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042657,
+   "name": "Dompet Wanita",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042664,
+   "name": "Aksesoris Tas",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042672,
+   "name": "Koper & Tas Travel",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11042671,
+   "name": "Tas Wanita Lainnya",
+   "parent": 11042642,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043572,
+   "name": "Hobi & Koleksi",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043584,
+   "name": "Aksesoris Hewan Peliharaan",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043596,
+   "name": "Litter & Toilet",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043603,
+   "name": "Grooming Hewan",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043608,
+   "name": "Pakaian & Aksesoris Hewan",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043617,
+   "name": "Perawatan Kesehatan Hewan",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043573,
+   "name": "Makanan Hewan",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043622,
+   "name": "Koleksi",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043633,
+   "name": "Mainan & Games",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043647,
+   "name": "CD, DVD & Bluray",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043648,
+   "name": "Alat & Aksesoris Musik",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043656,
+   "name": "Piringan Hitam",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043657,
+   "name": "Album Foto",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043658,
+   "name": "Perlengkapan Menjahit",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043659,
+   "name": "Hobi & Koleksi Lainnya",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11122103,
+   "name": "Hewan Peliharaan Lainnya",
+   "parent": 11043572,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043660,
+   "name": "Otomotif",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11043661,
+   "name": "Mobil",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043662,
+   "name": "Aksesoris Interior Mobil",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043681,
+   "name": "Aksesoris Eksterior Mobil",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043693,
+   "name": "Suku Cadang Mobil",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043714,
+   "name": "Perkakas & Perlengkapan Kendaraan",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043718,
+   "name": "Perawatan Kendaraan",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043725,
+   "name": "Oli & Pelumas Kendaraan",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043733,
+   "name": "Gantungan & Sarung Kunci Kendaraan",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043734,
+   "name": "Sepeda Motor",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043735,
+   "name": "Aksesoris Sepeda Motor",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043747,
+   "name": "Suku Cadang Motor",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043770,
+   "name": "Aksesoris Pengendara Motor",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043777,
+   "name": "Otomotif Lainnya",
+   "parent": 11043660,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043958,
+   "name": "Olahraga & Outdoor",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044100,
+   "name": "Pakaian Olahraga Anak",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044101,
+   "name": "Aksesoris Olahraga & Aktivitas Outdoor",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044113,
+   "name": "Boardsport",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043959,
+   "name": "Alat Pancing",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043968,
+   "name": "Bersepeda",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043974,
+   "name": "Camping & Hiking",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043987,
+   "name": "Panjat Tebing",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043988,
+   "name": "Panahan",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043992,
+   "name": "Sepak Bola, Futsal, & Sepak Takraw",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11043999,
+   "name": "Basket",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044004,
+   "name": "Voli",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044008,
+   "name": "Bulu Tangkis",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044013,
+   "name": "Tenis",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044019,
+   "name": "Tenis Meja",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044024,
+   "name": "Tinju & Bela Diri",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044031,
+   "name": "Golf",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044038,
+   "name": "Baseball & Softball",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044039,
+   "name": "Squash",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044040,
+   "name": "Rugbi",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044041,
+   "name": "Billiard",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044042,
+   "name": "Selancar & Wakeboard",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044043,
+   "name": "Ice Skating & Olahraga Musim Dingin",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044044,
+   "name": "Diving & Renang",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044060,
+   "name": "Boating",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044061,
+   "name": "Yoga & Pilates",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044066,
+   "name": "Fitness",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044074,
+   "name": "Dart",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044075,
+   "name": "Sepatu Olahraga",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044087,
+   "name": "Pakaian Olahraga Pria",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044093,
+   "name": "Pakaian Olahraga Wanita",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044112,
+   "name": "Olahraga & Outdoor Lainnya",
+   "parent": 11043958,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044123,
+   "name": "Buku & Alat Tulis",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044124,
+   "name": "Alat Tulis",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044131,
+   "name": "Perlengkapan Sekolah & Kantor",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044149,
+   "name": "Folder, Organizer Kertas, & Aksesoris",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044155,
+   "name": "Perlengkapan Menggambar",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044166,
+   "name": "Buku Tulis & Kertas",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044177,
+   "name": "Surat-Menyurat",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044182,
+   "name": "Bubble Wrap",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044183,
+   "name": "Majalah & Koran",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044188,
+   "name": "Buku Anak-Anak",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044191,
+   "name": "Buku Edukasi",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044197,
+   "name": "Buku Non-Fiksi",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044213,
+   "name": "Buku Fiksi",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044218,
+   "name": "Komik & Manga",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044223,
+   "name": "E-Book",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044224,
+   "name": "Buku & Alat Tulis Lainnya",
+   "parent": 11044123,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11116633,
+   "name": "Souvenir & Perlengkapan Pesta",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11116625,
+   "name": "Perlengkapan Pesta",
+   "parent": 11116633,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044245,
+   "name": "Pembungkus Kado & Kemasan",
+   "parent": 11116633,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11116634,
+   "name": "Souvenir & Hadiah",
+   "parent": 11116633,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11116635,
+   "name": "Balon",
+   "parent": 11116633,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044253,
+   "name": "Bunga",
+   "parent": 11116633,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044588,
+   "name": "Fotografi",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044589,
+   "name": "Kamera",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044610,
+   "name": "Lighting & Perlengkapan Studio Foto",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044611,
+   "name": "Roll Film & Kertas Foto",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044612,
+   "name": "Printer Foto",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044613,
+   "name": "Tas & Casing Kamera",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044614,
+   "name": "Charger Baterai",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044615,
+   "name": "Baterai & Battery Grip",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044616,
+   "name": "Tripod, Monopod, & Aksesoris",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044617,
+   "name": "Kartu Memori",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044619,
+   "name": "Perawatan Kamera",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044626,
+   "name": "Drone & Aksesoris",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044630,
+   "name": "Gimbal & Stabilizer",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044598,
+   "name": "Lensa & Aksesoris",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044605,
+   "name": "Flash & Aksesoris",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044629,
+   "name": "Fotografi Lainnya",
+   "parent": 11044588,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044631,
+   "name": "Voucher",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11044632,
+   "name": "Tiket Event",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044635,
+   "name": "Belanja",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044642,
+   "name": "Data",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044648,
+   "name": "Pulsa",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044654,
+   "name": "Travel & Tour",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044658,
+   "name": "Gaming",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11044666,
+   "name": "Shopee",
+   "parent": 11044631,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11105951,
+   "name": "Deals Sekitarmu",
+   "parent": 0,
+   "depth": 0,
+   "has_children": true
+  },
+  {
+   "catid": 11105952,
+   "name": "Voucher ShopeePay",
+   "parent": 11105951,
+   "depth": 1,
+   "has_children": false
+  },
+  {
+   "catid": 11105953,
+   "name": "Voucher Deals",
+   "parent": 11105951,
+   "depth": 1,
+   "has_children": false
+  }
+ ]
+}
